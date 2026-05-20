@@ -1,5 +1,4 @@
-# Heart Crush ❤️
-
+<h1 align="center">Heart Crush ❤️</h1>
 A modern full-stack PHP browser game built using MVC architecture, featuring authentication, persistent game saves, immersive gameplay mechanics, animated UI/UX, boss battle systems, and interactive browser-based puzzle solving.
 
 Heart Crush combines software engineering principles, secure backend development, advanced JavaScript systems, and responsive frontend design to create a polished and engaging gaming experience.
@@ -587,6 +586,16 @@ http://localhost/Heart-Crush/View/loading.php
 
 # 📸 Screenshots
 
+<img width="1920" height="908" alt="Login" src="https://github.com/user-attachments/assets/3ee44eff-f9df-4b97-9e42-bb8a4088bee4" />
+<img width="1920" height="910" alt="Register" src="https://github.com/user-attachments/assets/43b9c1fe-2a80-48f7-b7a2-7a9f89f875a7" />
+<img width="1920" height="905" alt="Landing" src="https://github.com/user-attachments/assets/de53f508-ec78-4e55-ae46-b56c18af6288" />
+<img width="1920" height="909" alt="Landing2" src="https://github.com/user-attachments/assets/f19d8822-c8de-4915-b120-26cef14fffcf" />
+<img width="1920" height="910" alt="Game" src="https://github.com/user-attachments/assets/e1b357b1-0efc-4526-b754-3632c50515ed" />
+<img width="1920" height="908" alt="PauseScreen" src="https://github.com/user-attachments/assets/23932fdd-7a3f-4d1e-850c-de03cc678e37" />
+<img width="1920" height="901" alt="GameOver" src="https://github.com/user-attachments/assets/1937f588-f078-4e88-8658-6557c6a64e68" />
+<img width="1920" height="911" alt="LeaderBoard" src="https://github.com/user-attachments/assets/a5f63fcb-6552-414f-9ba0-b0c1bf7bb93a" />
+<img width="1920" height="910" alt="Settings" src="https://github.com/user-attachments/assets/cbec57b9-7667-4bf6-9eec-fe15cd15f5ef" />
+<img width="1920" height="909" alt="Profile" src="https://github.com/user-attachments/assets/8595fe01-a291-48b0-97f1-d64fe70dffd2" />
 
 
 ---
@@ -639,7 +648,7 @@ First and foremost, I would like to thank my lecturers and academic supervisors 
 
 I would also like to thank the [University of Bedfordshire](https://www.beds.ac.uk/) for providing the knowledge, resources, and learning environment necessary to complete this project successfully.
 
-Special thanks for Marc Conrad for the Heart Game API
+Special thanks for Marc Conrad for the Heart Game API.
 
 Special appreciation goes to the open-source community and the developers behind the technologies, libraries, and APIs used in this project, including:
 
